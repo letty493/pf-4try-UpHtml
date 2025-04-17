@@ -118,10 +118,9 @@
                 $conexao->close();
             }
         ?>
-    </div>
-    
-    <div class="back-button-container">
+        <div class="back-button-container">
         <a href="index.php" class="back-button">Voltar</a>
+        </div>
     </div>
 </body>
 </html>
